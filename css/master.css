@@ -1,0 +1,56 @@
+body {
+    background-color: #d7d7d7;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
+p3 {
+    border: 3px black;
+}
+
+p4 {
+    position: absolute;
+    left: 40px;
+    width: 400px;
+}
+
+p5 {
+    position: absolute;
+    left: 600px;
+    width: 400px;
+
+}
+
+p6 {
+    position: absolute;
+    left: 1100px;
+    width: 400px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#first {
+    position: absolute;
+    margin-top: 200px;
+    left: 40px;
+    width: 400px;
+}
+
+#second {
+    position: absolute;
+    margin-top: 200px;
+    left: 600px;
+    width: 400 px;
+}
+
+form {
+    position: absolute;
+    margin-top: 200px;
+    left: 1100px;
+    width: 200px;
+}
