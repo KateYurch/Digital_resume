@@ -1,10 +1,14 @@
 body {
-    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), yellow);
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), grey);
 }
 
 p {
     color: black;
     text-align: center;
+}
+
+p strong {
+    font-size: 24px;
 }
 
 p3 {
@@ -30,27 +34,22 @@ p6 {
     width: 400px;
 }
 
-img {
+#ava {
     border-radius: 50%;
 }
 
 #first {
     position: absolute;
-    margin-top: 200px;
+    margin-top: 100px;
     left: 40px;
-    width: 400px;
+    width: 500px;
+    border: 1px solid black;
 }
 
-#second {
-    position: absolute;
-    margin-top: 200px;
-    left: 600px;
-    width: 400 px;
-}
 
 form {
     position: absolute;
-    margin-top: 200px;
-    left: 1100px;
-    width: 200px;
+    margin-top: 100px;
+    left: 600px;
+    width: 300px;
 }
