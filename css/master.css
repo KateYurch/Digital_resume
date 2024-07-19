@@ -46,9 +46,25 @@ p6 {
     border: 1px solid grey;
 }
 
+#second {
+    position: absolute;
+    margin-top: 100px;
+    left: 600px;
+    width: 380px;
+    border: 1px solid grey;
+}
+
 p7 {
     position: absolute;
     margin-top: 340px;
     left: 40px;
     width: 400px;
+}
+
+p8 {
+    position: absolute;
+    margin-top: 340px;
+    left: 600px;
+    width: 400px;
+
 }
