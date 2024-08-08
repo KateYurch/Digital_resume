@@ -42,36 +42,37 @@ p6 {
     position: absolute;
     margin-top: 100px;
     left: 40px;
-    width: 400px;
+    width: 575px;
     border: 1px solid grey;
 }
 
 #second {
     position: absolute;
     margin-top: 100px;
-    left: 555px;
-    width: 380px;
+    left: 865px;
+    width: 550px;
     border: 1px solid grey;
 }
 
 p7 {
     position: absolute;
-    margin-top: 340px;
+    margin-top: 450px;
     left: 40px;
-    width: 400px;
+    width: 575px;
 }
 
 p8 {
     position: absolute;
-    margin-top: 340px;
-    left: 555px;
-    width: 400px;
+    margin-top: 450px;
+    left: 865px;
+    width: 550px;
 
 }
 
+
 footer {
     display: block;
-    margin-top: 500px;
+    margin-top: 570px;
 }
 
 .copyright {
@@ -80,4 +81,8 @@ footer {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
+
+button {
+    background-color: white;
 }
