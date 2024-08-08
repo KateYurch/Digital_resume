@@ -23,14 +23,14 @@ p4 {
 
 p5 {
     position: absolute;
-    left: 600px;
+    left: 555px;
     width: 400px;
 
 }
 
 p6 {
     position: absolute;
-    left: 1100px;
+    left: 1000px;
     width: 400px;
 }
 
@@ -49,7 +49,7 @@ p6 {
 #second {
     position: absolute;
     margin-top: 100px;
-    left: 600px;
+    left: 555px;
     width: 380px;
     border: 1px solid grey;
 }
@@ -64,7 +64,20 @@ p7 {
 p8 {
     position: absolute;
     margin-top: 340px;
-    left: 600px;
+    left: 555px;
     width: 400px;
 
+}
+
+footer {
+    display: block;
+    margin-top: 500px;
+}
+
+.copyright {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
